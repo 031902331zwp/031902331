@@ -1,0 +1,17 @@
+{
+  "pages":[
+    "pages/beginGame/beginGame",
+    "pages/yishu/yishu",
+    "pages/baoshi/baoshi",
+    "pages/start/start",
+    "pages/index/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "易科游",
+    "navigationBarTextStyle":"black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
